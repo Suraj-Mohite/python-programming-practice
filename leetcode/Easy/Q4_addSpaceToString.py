@@ -1,11 +1,3 @@
-# def addSpaceToString(s,l1):
-#     res=""
-#     prev=0
-#     for i in l1:
-        
-#         res+=(s[prev:i]+" ")
-#         prev=i
-#     return res
 
 def addSpaceToString(s,l1):
     res=""
